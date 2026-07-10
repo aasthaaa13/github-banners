@@ -47,6 +47,65 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 
 #### Pixel
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/06252229-4c65-45c7-992c-4c47504323e8" alt="banner" height="200" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/71764b7e-1d1d-473a-97a6-4b9f65d521c0" alt="banner" height="200" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/11d8b9c8-5d96-4905-88a5-68fee8560da9" alt="banner" height="200" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d8160f32-b2c4-4631-94c2-ed99e344985a" alt="banner" height="200" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c426f32e-e9e4-4021-abd5-ad84d61b5bc7" alt="banner" height="200" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/10e21722-24e6-4d2d-990e-7e4012eb1c10" alt="banner" height="200" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ddf181a-981a-4223-a6f8-598c5c5c7655" alt="banner" height="200" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fd2c7c60-7edc-4e26-9809-19add1d59b21" alt="banner" height="200" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/002ebcc5-cc23-4e88-8b9a-bb3c9f6ba68d" alt="banner" height="200" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ccc02af1-d935-4aad-87f3-bf1b1d879a89" alt="banner" height="200" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e151adaa-7f25-4db1-9bee-e301139fadfb" alt="banner" height="200" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/86943c13-0455-4a38-864f-e2cd47c19d04" alt="banner" height="200" width="1850" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
 #### Gradient
 
 #### Anime
@@ -56,6 +115,9 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 #### Space
 
 #### Miscellaneous
+
+
+
 
 
 ## 🤝 Contributing
