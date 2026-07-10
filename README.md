@@ -35,6 +35,28 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 
 ## 📂 Categories
 
+#### Professional 
+
+#### AIML
+
+#### Code
+
+#### Dark
+
+#### Light
+
+#### Pixel
+
+#### Gradient
+
+#### Anime
+
+#### Minimalistic
+
+#### Space
+
+#### Miscellaneous
+
 
 ## 🤝 Contributing
 
