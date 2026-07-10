@@ -20,31 +20,21 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
   - [Categories](#categories)
       - [Professional](#professional-)
       - [AIML 🤖](#aiml-)
-      - [Code ](#code-)
+      - [Code 💻](#code-)
       - [Dark](#dark-)
-      - [Light](#light-)
-      - [Pixel](#pixel-)
+      - [Light ](#light-)
+      - [Pixel 👾](#pixel-)
       - [Gradient](#gradient-)
-      - [Anime 👾](#anime-)
+      - [Anime ](#anime-)
       - [Minimalistic ✨](#minimalistic-)
-      - [Space](#space-)
-  
+      - [Space ](#space-)
+      - [Miscellaneous ](#miscellaneous-)
+
+
+
+
 ## 📂 Categories
 
-- Minimal
-- Professional
-- Student
-- AI & ML
-- Web Development
-- Open Source
-- Dark
-- Light
-- Gradient
-- Abstract
-- Space
-- Cyberpunk
-- Seasonal
-- Miscellaneous
 
 ## 🤝 Contributing
 
