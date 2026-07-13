@@ -43,6 +43,34 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 
 #### Dark
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/191d108b-20ed-43ec-8104-f8d2a2880ba9" alt="banner" height="400" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f9cfadb6-114a-4772-bf35-db1ad47e1794" alt="banner" height="400" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e9dc2483-aced-42d5-ac0a-0e2b4415cb29" alt="banner" height="400" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9621860c-e715-42ca-a7fd-db093f8deaaa" alt="banner" height="400" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d59db62a-d98e-40b0-858d-47d2bf9e4420" alt="banner" height="400" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/61cfc3da-7052-45ad-a11d-c1717ae734ac" alt="banner" height="400" width="1850" />
+</p>
+
+
+
+
+
 #### Light
 
 #### Pixel
