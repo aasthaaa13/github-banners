@@ -20,7 +20,7 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
   - [Categories](#categories)
       - [Professional](#professional-)
       - [AIML 🤖](#aiml-)
-      - [Code 💻](#code-)
+      - [Space 💻](#space-)
       - [Dark](#dark-)
       - [Light ](#light-)
       - [Pixel 👾](#pixel-)
@@ -39,9 +39,24 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 
 #### AIML
 
-#### Code
+#### Space
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a5e43430-d656-4d59-b4a8-4c0464015107" alt="banner" height="400" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6990a2cf-14e1-4e2d-a1df-2dbd2afae7ba" alt="banner" height="400" width="1850" />
+</p>
+
+
+
 
 #### Dark
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8597e042-fac1-43c0-9de2-206cbcf2eebb" alt="banner" height="400" width="1850" />
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/191d108b-20ed-43ec-8104-f8d2a2880ba9" alt="banner" height="400" width="1850" />
@@ -102,6 +117,8 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 <p align="center">
   <img src="https://github.com/user-attachments/assets/45661c7d-5318-45a0-bfeb-720928420009" alt="banner" height="400" width="1850" />
 </p>
+
+
 
 
 
