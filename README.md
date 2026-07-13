@@ -77,6 +77,11 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
   <img src="https://github.com/user-attachments/assets/f528eccc-112b-4558-b49f-6abac4759bb3" alt="banner" height="400" width="1850" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1225c8f7-e299-429c-a439-90dfacbe0798" alt="banner" height="400" width="1850" />
+</p>
+
+
 
 
 
