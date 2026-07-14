@@ -18,17 +18,15 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 
 ### Contents:
   - [Categories](#categories)
-      - [Professional](#professional-)
       - [AIML 🤖](#aiml-)
-      - [Space 💻](#space-)
-      - [Dark](#dark-)
-      - [Light ](#light-)
+      - [Space 🚀](#space-)
+      - [Dark ⬛](#dark-)
+      - [Light ✨](#light-)
       - [Pixel 👾](#pixel-)
       - [Gradient](#gradient-)
-      - [Anime ](#anime-)
+      - [Anime 😼](#anime-)
       - [Minimalistic ✨](#minimalistic-)
-      - [Space ](#space-)
-      - [Miscellaneous ](#miscellaneous-)
+      - [Miscellaneous 🔖](#miscellaneous-)
 
 
 
