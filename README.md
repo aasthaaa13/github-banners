@@ -352,9 +352,31 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 
 #### Minimalistic
 
-#### Space
+
 
 #### Miscellaneous
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/39613f53-752a-447d-aaad-a073d79d2f53" alt="banner" height="200" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2aa902a4-ad37-451f-875a-616d6b1e33ac" alt="banner" height="200" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0475f948-6b88-4dbf-8ce9-13d21d16207a" alt="banner" height="200" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2477f062-930b-4f3c-9350-b2248fba5230" alt="banner" height="200" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7eef457c-d410-4e6f-a609-f0b7f25ed227" alt="banner" height="200" width="1850" />
+</p>
+
+
 
 
 
