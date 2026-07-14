@@ -33,8 +33,6 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 
 ## 📂 Categories
 
-#### Professional 
-
 #### AIML
 
 <p align="center">
