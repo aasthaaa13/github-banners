@@ -39,6 +39,46 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 
 #### AIML
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9e780a54-972b-489f-a8f6-e475d0f2058b" alt="banner" height="400" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0b8ee724-2cd9-4b4f-b4ad-5a8288e4900f" alt="banner" height="400" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8b3d35b2-cd07-45d7-af19-3557650b0d3c" alt="banner" height="400" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8e472e35-25ae-419e-bb79-daa38a39ebb6" alt="banner" height="400" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/23965781-fad0-47bd-84f2-f5c1445dc1b6" alt="banner" height="400" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/65b87e26-91bf-4809-9753-28398a3abd11" alt="banner" height="400" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db7e3fb1-0392-4f4d-88a0-8a9498f17c9b" alt="banner" height="400" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d863b7f2-4627-40f1-9b5f-2aaeabe34ae5" alt="banner" height="400" width="1850" />
+</p>
+
+
+
+
+
+
+
+
+
 #### Space
 
 <p align="center">
