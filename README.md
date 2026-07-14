@@ -23,7 +23,7 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
       - [Dark ⬛](#dark-)
       - [Light ✨](#light-)
       - [Pixel 👾](#pixel-)
-      - [Gradient](#gradient-)
+      - [Gradient 🌌](#gradient-)
       - [Anime 😼](#anime-)
       - [Minimalistic ✨](#minimalistic-)
       - [Miscellaneous 🔖](#miscellaneous-)
