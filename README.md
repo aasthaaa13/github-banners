@@ -357,6 +357,10 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 #### Miscellaneous
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/bb1bf9f5-a72d-4871-83a4-b0bd0d08721b" alt="banner" height="400" width="1850" />
+</p>
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/39613f53-752a-447d-aaad-a073d79d2f53" alt="banner" height="400" width="1850" />
 </p>
 
@@ -394,6 +398,10 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/67f82149-f5de-4e2b-ad9c-8aaae625b47f" alt="banner" height="400" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cbfffd68-a352-48e4-ac45-4ba4db9c92fa" alt="banner" height="400" width="1850" />
 </p>
 
 
