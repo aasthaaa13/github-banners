@@ -226,16 +226,23 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 
 
 
-
-
-
-
-
-
-
-
-
 #### Light
+
+<p align="center">
+  <img src= "https://github.com/user-attachments/assets/9ee0584e-df42-4140-b533-64fb718f98de" alt="banner" height="400" width="1850" />
+</p>
+
+<p align="center">
+  <img src= "https://github.com/user-attachments/assets/ce39ad90-60a5-405e-8ff6-6445479b4095" alt="banner" height="400" width="1850" />
+</p>
+
+<p align="center">
+  <img src= "https://github.com/user-attachments/assets/93178110-66b4-45b2-8b7d-f6ff5c69f80c" alt="banner" height="400" width="1850" />
+</p>
+
+<p align="center">
+  <img src= "https://github.com/user-attachments/assets/93178110-66b4-45b2-8b7d-f6ff5c69f80c" alt="banner" height="400" width="1850" />
+</p>
 
 #### Pixel
 
@@ -403,6 +410,16 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cbfffd68-a352-48e4-ac45-4ba4db9c92fa" alt="banner" height="400" width="1850" />
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d318b581-2557-477d-a5e7-89ce575ee20a" alt="banner" height="400" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d318b581-2557-477d-a5e7-89ce575ee20a" alt="banner" height="400" width="1850" />
+</p>
+
+
 
 
 
