@@ -39,11 +39,15 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/73b0e3fe-798a-416b-8b77-edff2155047a" alt="banner" height="400" width="1850" />
+  <img src="https://github.com/user-attachments/assets/0b8ee724-2cd9-4b4f-b4ad-5a8288e4900f" alt="banner" height="400" width="1850" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0b8ee724-2cd9-4b4f-b4ad-5a8288e4900f" alt="banner" height="400" width="1850" />
+  <img src="https://github.com/user-attachments/assets/b1edbd7e-1bf4-49af-88be-7c7077ad9280" alt="banner" height="400" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c98c3ccf-3272-47e5-8fc7-4d4cdae6bc34" alt="banner" height="400" width="1850" />
 </p>
 
 <p align="center">
@@ -68,6 +72,10 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d863b7f2-4627-40f1-9b5f-2aaeabe34ae5" alt="banner" height="400" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/73b0e3fe-798a-416b-8b77-edff2155047a" alt="banner" height="400" width="1850" />
 </p>
 
 
