@@ -68,14 +68,7 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 </p>
 
 
-
-
-
-
-
-
-
-#### Space
+#### Space 🚀
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a5e43430-d656-4d59-b4a8-4c0464015107" alt="banner" height="400" width="1850" />
@@ -130,23 +123,7 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 </p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Dark
+#### Dark ⬛ 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8597e042-fac1-43c0-9de2-206cbcf2eebb" alt="banner" height="400" width="1850" />
@@ -221,8 +198,7 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 </p>
 
 
-
-#### Light
+#### Light ✨
 
 <p align="center">
   <img src= "https://github.com/user-attachments/assets/9ee0584e-df42-4140-b533-64fb718f98de" alt="banner" height="400" width="1850" />
@@ -240,7 +216,8 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
   <img src= "https://github.com/user-attachments/assets/93178110-66b4-45b2-8b7d-f6ff5c69f80c" alt="banner" height="400" width="1850" />
 </p>
 
-#### Pixel
+
+#### Pixel 👾
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/06252229-4c65-45c7-992c-4c47504323e8" alt="banner" height="200" width="1850" />
@@ -332,28 +309,11 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 </p>
 
 
+#### Gradient 🌌
 
+#### Anime 😼
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Gradient
-
-#### Anime
-
-#### Minimalistic
+#### Minimalistic ✨
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b4908f09-73d7-468c-9c21-d198abb5077e" alt="banner" height="400" width="1750" />
@@ -372,10 +332,7 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 </p>
 
 
-
-
-
-#### Miscellaneous
+#### Miscellaneous 🔖
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bb1bf9f5-a72d-4871-83a4-b0bd0d08721b" alt="banner" height="400" width="1750" />
