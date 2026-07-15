@@ -410,14 +410,6 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9d5b2a97-3172-41b7-88ba-91b2a64e5d67" alt="banner" height="400" width="1850" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9d5b2a97-3172-41b7-88ba-91b2a64e5d67" alt="banner" height="400" width="1850" />
-</p>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/67f82149-f5de-4e2b-ad9c-8aaae625b47f" alt="banner" height="400" width="1850" />
 </p>
 
