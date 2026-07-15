@@ -10,7 +10,6 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 - 🎨 Modern & minimal designs
 - 🌙 Dark and ☀️ light themes
 - 🤖 AI & Machine Learning banners
-- 💻 Web Development banners
 - 🚀 Open Source themed banners
 - 🌌 Abstract & futuristic styles
 - 📱 High-resolution images
