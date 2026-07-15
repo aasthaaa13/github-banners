@@ -407,10 +407,5 @@ Contributions are welcome! Feel free to submit new banner designs, improvements,
 Please read the [contribution guidelines](contributing.md) first.
 
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-⭐ If you found this repository helpful, consider giving it a star!
+If you found this repository helpful, consider giving it a star!⭐
+Made with ❤️
