@@ -33,7 +33,7 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 
 ## 📂 Categories
 
-#### AIML
+#### AIML 🤖
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9e780a54-972b-489f-a8f6-e475d0f2058b" alt="banner" height="400" width="1850" />
