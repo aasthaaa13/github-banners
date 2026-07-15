@@ -212,6 +212,11 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
   <img src="https://github.com/user-attachments/assets/856235e6-4ef2-43fd-839f-fdccd1a6126a" alt="banner" height="400" width="1850" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ec1a2076-f92a-4943-b27a-33b65b843098" alt="banner" height="400" width="1850" />
+</p>
+
+
 
 ### Light ✨
 
@@ -321,6 +326,20 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 
 
 ### Gradient 🌌
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7ef36b45-9832-4ac3-8fce-c68716d57920" alt="banner" height="200" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c738a28f-32ac-4421-82f0-04904395d425" alt="banner" height="200" width="1850" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9b74eeb5-c37a-4e75-b905-ab97f27db053" alt="banner" height="200" width="1850" />
+</p>
+
+
 
 ### Anime 😼
 
