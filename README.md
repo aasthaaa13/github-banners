@@ -28,8 +28,6 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
       - [Miscellaneous 🔖](#miscellaneous-)
 
 
-
-
 ## 📂 Categories
 
 ### AIML 🤖
