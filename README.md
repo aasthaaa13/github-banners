@@ -435,7 +435,6 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 - ["Next Level GitHub Profile README"](https://youtu.be/ECuqb5Tv9qI) - *codeSTACKr*
 
 
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to submit new banner designs, improvements, or ideas through a Pull Request.
