@@ -2,7 +2,6 @@
 
 > Designing first impressions, one banner at a time. Elevating GitHub profiles, one banner at a time.
 
-
 A curated collection of modern, aesthetic, and customizable GitHub profile banners for developers, students, creators, and open-source enthusiasts!
 
 ## ✨ Features
