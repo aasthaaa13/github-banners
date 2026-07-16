@@ -440,6 +440,7 @@ A curated collection of modern, aesthetic, and customizable GitHub profile banne
 
 Contributions are welcome! Feel free to submit new banner designs, improvements, or ideas through a Pull Request.
 Please read the [contribution guidelines](contributing.md) first.
+Let's contribute together on this!
 
 
 If you found this repository helpful, consider giving it a star!⭐
